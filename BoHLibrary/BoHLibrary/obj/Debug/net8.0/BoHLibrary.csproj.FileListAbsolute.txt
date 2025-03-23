@@ -1,0 +1,11 @@
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\bin\Debug\net8.0\BoHLibrary.deps.json
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\bin\Debug\net8.0\BoHLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\bin\Debug\net8.0\BoHLibrary.pdb
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\BoHLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\BoHLibrary.AssemblyInfoInputs.cache
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\BoHLibrary.AssemblyInfo.cs
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\BoHLibrary.csproj.CoreCompileInputs.cache
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\BoHLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\refint\BoHLibrary.dll
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\BoHLibrary.pdb
+C:\Users\solod\OneDrive\Рабочий стол\solution second\BoHLibrary\BoHLibrary\obj\Debug\net8.0\ref\BoHLibrary.dll
